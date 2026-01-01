@@ -16,13 +16,13 @@ export default function WorkPage() {
   const projects = [
     {
       id: 1,
-      title: "E-commerce Platform",
+      title: "Job Portal Website",
       description:
-        "A modern e-commerce platform built with Spring Boot and Tailwind CSS",
-      image: "/e.png?height=600&width=800",
-      category: "E-commerce",
-      tags: ["Spring Boot", "React", "Tailwind CSS"],
-      link: "#",
+        "A modern job portal platform built with Spring Boot and Tailwind CSS",
+      image: "/jobportal.png?height=600&width=800",
+      category: "Websites",
+      tags: ["Spring Boot", "React", "Thymeleaf"," Tailwind CSS", "My SQL"," Hibernate"," RESTful APIs"," Docker"," GCP"],
+      link: "https://job-portal-742835143175.asia-south2.run.app/login",
     },
     {
       id: 2,
@@ -32,17 +32,37 @@ export default function WorkPage() {
       image: "/cv.png?height=600&width=800",
       category: "Websites",
       tags: ["React", "Tailwind CSS", "HTML"],
-      link: "#",
+      link: "https://about-me-git-main-surajgiri55446s-projects.vercel.app/",
     },
     {
       id: 3,
-      title: "Task Management App",
+      title: "Quick Invoice Generator",
       description:
-        "A collaborative task management application with real-time updates",
-      image: "/task.png?height=600&width=800",
+        "A web app to create and manage invoices quickly and efficiently.",
+      image: "/invoice.png?height=600&width=800",
       category: "Web Apps",
       tags: ["React", "Spring boot", "My SQl"],
-      link: "#",
+      link: "https://billing-seven-alpha.vercel.app/",
+    },
+     {
+      id: 4,
+      title: "Money Manager App",
+      description:
+        "A personal finance management app to track expenses and budgets.",
+      image: "/money.png?height=600&width=800",
+      category: "Web Apps",
+      tags: ["React", "Spring boot", "My SQl"], 
+      link: "https://money-manager-frontend-eccz.vercel.app/login", 
+    },
+     {
+      id: 5,
+      title: "E-commerce Store",
+      description:
+        "A full-featured e-commerce platform with product listings, shopping cart, and checkout.",
+      image: "/e.png?height=600&width=800",
+      category: "UI Designs",
+      tags: ["html", "css"], 
+      link: "https://superb-druid-4bb34b.netlify.app/", 
     },
   ];
 

@@ -74,12 +74,12 @@ export default function Home() {
               React, and more.
             </p>
 
-            {/* <p className="text-muted-foreground font-outfit">
+            <p className="text-muted-foreground font-outfit">
               With 10 years of experience working with leading tech companies,
               I've developed a deep understanding of what makes a great user
-              experience. I specialize in React, Next.js, and modern CSS
+              experience. I specialize in React, and modern CSS
               frameworks.
-            </p> */}
+            </p>
 
             <Button variant="link" className="font-outfit p-0" asChild>
               <Link
@@ -172,17 +172,17 @@ export default function Home() {
               className="group relative overflow-hidden rounded-lg aspect-[4/3]"
             >
               <Image
-                src={`/chatbot.png?height=600&width=800`}
+                src={`/jobportal.png?height=600&width=800`}
                 alt={`Project ${project}`}
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-6">
                 <h3 className="text-white text-xl font-bold mb-2 font-outfit">
-                  💬 AI Chatbot
+                job portal system
                 </h3>
                 <p className="text-white/80 mb-4 font-outfit">
-                  full-stack AI-powered chatbot using Google's Gemini API.
+                  A modern job portal platform built with Spring Boot and Tailwind CSS
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <Badge

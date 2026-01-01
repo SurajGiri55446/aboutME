@@ -29,7 +29,7 @@ export function Footer() {
                 <Github className="h-6 w-6 text-muted-foreground hover:text-primary transition-colors" />
               </Link>
               <Link
-                href="https://www.linkedin.com/in/suraj-giri-a00346347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                href="https://www.linkedin.com/in/surajgiri-55446g/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"

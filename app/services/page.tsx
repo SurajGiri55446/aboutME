@@ -25,6 +25,8 @@ export default function ServicesPage() {
         "Animation and transitions",
         "Design system implementation",
         "Cross-browser compatibility",
+        "Responsive design",
+        "Accessibility compliance",
       ],
     },
     {
@@ -38,6 +40,10 @@ export default function ServicesPage() {
         "Image optimization",
         "Caching strategies",
         "Bundle size reduction",
+        "Minification and compression",
+        "Performance monitoring",
+        "SEO best practices",
+        "Progressive Web App (PWA) enhancements",
       ],
     },
     {
@@ -51,6 +57,10 @@ export default function ServicesPage() {
         "Content updates",
         "Bug fixes and troubleshooting",
         "Backup and recovery",
+        "Uptime monitoring",
+        "Technical support",
+        "Feature enhancements",
+        "SEO updates",
       ],
     },
   ];

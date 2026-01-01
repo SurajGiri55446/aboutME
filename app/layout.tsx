@@ -17,7 +17,7 @@ const ovo = Ovo({
 });
 
 export const metadata = {
-  title: "Suraj Giri | Full Stack Developer",
+  title: "Suraj Giri | Full Stack  Java Developer",
   // description: "Frontend web developer based in London with 10 years of experience",
   generator: "v0.dev",
 };

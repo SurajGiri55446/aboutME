@@ -17,6 +17,28 @@ export default function AboutPage() {
     "Git",
     "Responsive Design",
     "C language",
+    "RESTful APIs",
+    "MySQL",
+    "MongoDB",
+    "Agile Methodologies",
+    "Problem Solving",
+    "Team Collaboration",
+    "Version Control (Git)",
+    "Linux",
+    "Google Cloud Platform (GCP)",
+    "AWS",
+    "IntelliJ IDEA",
+    "Postman",
+    "Visual Studio Code",
+    "python",
+    "GitHub",
+    "C++",
+    "Bootstrap",
+    "ChatGPT",
+    "AI Tools",
+    "API Integration",
+    "Debugging",
+    "Software Development Life Cycle (SDLC)",
   ];
 
   return (
@@ -47,11 +69,11 @@ export default function AboutPage() {
               </p>
 
               <p className="text-muted-foreground font-outfit leading-relaxed">
-                I'm based in Kashipur, India, and have worked on many exciting
-                projects while actively contributing to open-source communities.
-                As a full-stack developer, I'm passionate about creating
-                user-friendly, accessible, and high-performance web
-                applications.
+                I’m based in Kashipur, India, 1+ years of experience as a Junior
+                Java Developer at Restope. I’ve worked on multiple projects,
+                contributed to open source, and enjoy building user-friendly,
+                accessible, and high-performance web applications using modern
+                web technologies.
               </p>
             </div>
           </div>

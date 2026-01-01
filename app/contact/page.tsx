@@ -75,7 +75,7 @@ export default function ContactPage() {
                     <Phone className="h-6 w-6 mt-1" />
                     <div>
                       <h3 className="font-bold font-outfit">Phone</h3>
-                      <p className="font-outfit">+91 95369901**</p>
+                      <p className="font-outfit">+91 9536990114</p>
                     </div>
                   </div>
                 </div>
@@ -176,7 +176,7 @@ export default function ContactPage() {
                     className="w-full rounded-full text-lg bg-gradient-to-r from-primary to-secondary hover:from-primary/90 hover:to-secondary/90 font-outfit"
                     disabled={isSubmitting}
                   >
-                    {isSubmitting ? "Sending..." : "Send Message"}
+                    {isSubmitting ? "Sending....." : "Send Message"}
                   </Button>
                 </form>
               </div>
