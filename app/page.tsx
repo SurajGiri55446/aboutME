@@ -182,7 +182,7 @@ export default function Home() {
                 job portal system
                 </h3>
                 <p className="text-white/80 mb-4 font-outfit">
-                  A modern job portal platform built with Spring Boot and Tailwind CSS
+                  A modern job portal platform built with Spring Boot and Tailwind CSSgit
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <Badge
